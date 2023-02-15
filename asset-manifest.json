@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gopadhikari/todo-app/static/css/main.bdda4824.css",
+    "main.js": "/gopadhikari/todo-app/static/js/main.d070b6a5.js",
+    "static/js/787.63e47474.chunk.js": "/gopadhikari/todo-app/static/js/787.63e47474.chunk.js",
+    "index.html": "/gopadhikari/todo-app/index.html",
+    "main.bdda4824.css.map": "/gopadhikari/todo-app/static/css/main.bdda4824.css.map",
+    "main.d070b6a5.js.map": "/gopadhikari/todo-app/static/js/main.d070b6a5.js.map",
+    "787.63e47474.chunk.js.map": "/gopadhikari/todo-app/static/js/787.63e47474.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bdda4824.css",
+    "static/js/main.d070b6a5.js"
+  ]
+}
